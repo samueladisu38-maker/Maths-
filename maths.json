@@ -1,3 +1,13 @@
 { "q": "Question 1", "a": "Ans", "opt": ["A", "B", "C", "D"] },
     { "q": "Question 2", "a": "Ans", "opt": ["A", "B", "C", "D"] },
     { "q": "አዲሱ ጥያቄ እዚህ ይገባል", "a": "መልሱ", "opt": ["ምርጫ1", "ምርጫ2", "ምርጫ3", "ምርጫ4"] }
+{
+  "12": [
+    { "q": "What is the derivative of f(x) = x^n?", "a": "nx^(n-1)", "opt": ["nx^n", "nx^(n-1)", "x^(n+1)", "n/x"] },
+    { "q": "The limit of (1/x) as x approaches infinity is:", "a": "0", "opt": ["0", "1", "infinity", "-1"] }
+  ],
+  "11": [
+    { "q": "Which of the following is a vector quantity?", "a": "Force", "opt": ["Mass", "Time", "Force", "Temperature"] }
+  ],
+  "10": [], "9": []
+}
